@@ -5,6 +5,8 @@ description: Quality KIT
 sidebar_position: 1
 ---
 
+Test
+
 ![Quality kit banner](@site/static/img/kits\data-driven-quality-management\ddqm-kit-logo.svg)
 
 All notable changes to this Kit will be documented in this file.
